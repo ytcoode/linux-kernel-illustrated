@@ -4,6 +4,10 @@
 
 ![qrcode](images/qrcode.png)
 
+![printk](images/printk.png)
+
+- [精致全景图 | linux内核输出的日志去哪里了](https://mp.weixin.qq.com/s/mdDLw6AIp9ws9LTaHg64pg)
+
 - [为什么我的进程被kill掉了](https://mp.weixin.qq.com/s/oNgvmytO3zkddiWZjxKsgg) [「测试代码」](oom-killer/a.c)
 
 - [精致全景图 | 系统调用是如何实现的](https://mp.weixin.qq.com/s/DQXn3ooGGpVNfZtKU1f-Lw)
