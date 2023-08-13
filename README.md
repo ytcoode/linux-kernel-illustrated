@@ -2,7 +2,7 @@
 
 - 以下文章均首发于我的个人公众号，对linux内核感兴趣的小伙伴可以关注一下。
 
-![qrcode](images/qrcode.png)
+![qrcode](images/gongzhonghao.png)
 
 - [精致全景图 | linux内核输出的日志去哪里了](https://mp.weixin.qq.com/s/mdDLw6AIp9ws9LTaHg64pg)
 
